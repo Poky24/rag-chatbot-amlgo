@@ -30,3 +30,4 @@ sentence-transformers
 
 streamlit
 pypdf
+faiss-cpu
