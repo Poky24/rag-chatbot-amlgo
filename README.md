@@ -82,11 +82,13 @@ The app will open in your browser at `http://localhost:8501`.
 
 ## 📊 Example Queries
 
-**Q1:** *"What is the purpose of this training document?"*
-**A1:** "This document is intended to introduce AI fundamentals and guide employees at Amlgo Labs through ..."
+**Q1:** *"what can you tell me?"*
+**A1:** "Provided a summary of the document context."
 
-**Q2:** *"Who created this chatbot?"*
-**A2:** "I was created by Pulkit as part of an assignment for Amlgo Labs."
+**Q2:** *"what are various disputes "*
+**A2:** " Listed disputes such as user vs eBay claims, access to
+ services, agent actions, product sales, arbitration scope, pre-existing disputes, and intellectual
+ property infringements."
 
 **Q3 (failure case):** *"Tell me about IPL 2024 winners."*
 **A3:** "This is not related to the training document I was trained on."
@@ -118,9 +120,3 @@ The **report.pdf** (included in repo) explains:
 Developed by **Pulkit Chauhan** as part of the **Junior AI Engineer Assignment** at **Amlgo Labs**.
 
 ---
-
-✅ This README matches exactly what they asked in the PDF: overview, setup, usage, screenshots, demo, report, and notes.
-
----
-
-Do you want me to also **draft your `report.pdf` (2–3 pages)** now so you’ll have everything ready for submission?
