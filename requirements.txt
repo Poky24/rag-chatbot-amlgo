@@ -27,3 +27,5 @@ scikit-learn
 
 langchain-community
 sentence-transformers
+
+streamlit
