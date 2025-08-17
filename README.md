@@ -74,8 +74,8 @@ The app will open in your browser at `http://localhost:8501`.
 * ✅ Streaming token-by-token responses
 * ✅ Sources shown in expandable panel
 ![Chat Screenshot](Assets/Screenshot2025-08-17224047.png)
-[Demo Video 1](Assets/Demo/video1.mp4)  
-[Demo Video 2](Assets/Demo/video2.mp4)
+[Demo Video 1](https://drive.google.com/file/d/1ql4oWr_fxLQ7KU9hFtJt-f0zfZpR2DqB/view?usp=drive_link)  
+[Demo Video 2](https://drive.google.com/file/d/1K-sOs4JQX883rqVc3HiceTaFdelYV2IT/view?usp=drive_link)
 
 
 ---
