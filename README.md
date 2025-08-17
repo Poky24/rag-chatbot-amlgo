@@ -74,8 +74,7 @@ The app will open in your browser at `http://localhost:8501`.
 * ✅ Streaming token-by-token responses
 * ✅ Sources shown in expandable panel
 
-![Chat Screenshot](assets/chat_screenshot.png)
-*(Replace with your actual screenshot)*
+!Video (assets/amlgo_chatbot.mp4)
 
 ---
 
@@ -101,13 +100,6 @@ The **report.pdf** (included in repo) explains:
 * Prompt format & pipeline flow
 * Example queries (success + failure)
 * Notes on hallucinations & limitations
-
----
-
-## 🎥 Demo
-
-📹 Demo video / GIF showing chatbot with streaming responses:
-👉 \[Add Loom/ScreenToGif link here]
 
 ---
 
