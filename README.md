@@ -73,8 +73,9 @@ The app will open in your browser at `http://localhost:8501`.
 * ✅ Chat bubbles (assistant left, user right)
 * ✅ Streaming token-by-token responses
 * ✅ Sources shown in expandable panel
-
-!Video (assets/amlgo_chatbot.mp4)
+!image (Assets/)
+!Video (Assets/Demo/video1.mp4)
+!Video (Assets/Demo/video2.mp4)
 
 ---
 
